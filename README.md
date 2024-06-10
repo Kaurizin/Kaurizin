@@ -1,10 +1,12 @@
 ## Hey guys 👋 
+<hr>
 
 - Novice Programmer 💻
 - Brazilian 🌎
 - I use this space to share my projects developed 🤖
 
-## Nice to meet you!
+<hr>
+
   
   
 ![](https://media1.tenor.com/m/qMH5o_XizbcAAAAd/but-here%27s-the-coder.gif)
